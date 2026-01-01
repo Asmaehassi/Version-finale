@@ -1,4 +1,30 @@
+<p align="left">
+  <img src="PROFIL1.jpeg" alt="Photo étudiante" width="90"/>
+</p>
+
+<p align="right">
+  <img src="logo%20(2).png" alt="Logo ENCG Settat" width="90"/>
+</p>
+
+
+
 #  **Rapport machine learning : Détection du Risque de Maladie Cardiaque**
+# Sommaire
+
+1. [Introduction](#1-introduction)
+2. [Chargement des Packages](#2-chargement-des-packages)
+3. [Chargement du Jeu de Données](#3-chargement-du-jeu-de-données)
+4. [Nettoyage et Préparation des Données](#4-nettoyage-et-préparation-des-données)
+5. [Analyse Exploratoire (EDA)](#5-analyse-exploratoire-eda)
+6. [Modélisation Machine Learning : Random Forest](#6-modélisation-machine-learning--random-forest)
+7. [Évaluation du Modèle](#7-évaluation-du-modèle)
+8. [Visualisations](#8--visualisations)
+   - [Distribution de l'âge selon la présence de maladie](#81-distribution-de-lâge-selon-la-présence-de-maladie)
+   - [Matrice de Confusion](#82-matrice-de-confusion)
+   - [Courbe ROC](#83-courbe-roc)
+   - [Heatmap de corrélation](#84-heatmap-de-corrélation)
+9. [Conclusion Générale](#conclusion-générale)
+
 
 ##  **1. Introduction**
 
