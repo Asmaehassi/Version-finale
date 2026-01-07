@@ -50,4 +50,4 @@ Le modèle présente d’excellentes performances et montre le potentiel du mach
 
 ## Lien video
 
-https://drive.google.com/file/d/1gzOKtOwHrWUgFX0-lyha
+https://drive.google.com/file/d/1gzOKtOwHrWUgFX0-lyhaf78LVNYEhbaL/view?usp=sharing
